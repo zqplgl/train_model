@@ -1,0 +1,7 @@
+*lmdb
+*caffemodel
+*solverstate
+*.json.gz
+*pkl
+*.idea
+*.binaryproto
